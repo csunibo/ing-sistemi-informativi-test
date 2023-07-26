@@ -1,4 +1,4 @@
-# \<Insegnamento\>
+# \<Insegnamento\>aaaaa
 
 Una raccolta di risorse per l'insegnamento di \<Insegnamento\> del Corso di
 Laurea in Informatica.
